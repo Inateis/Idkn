@@ -29,7 +29,7 @@
 
 		"outerColor": [0, 51, 102],
                 "innerColor": [102, 178, 255],
-		"unique": "Enemy units within 2 tiles have a 25% chance to skip their turn"",
+		"unique": "Enemy units within 2 tiles have a 25% chance to skip their turn",
 		"cities": ["Mindspire", "Trancehold", "Dreamhaven", "Psychea", "Somnus", "Hypnora", "Mentis", "Cerebra", "Illusia", "Subcon"]
 	}
 ]
