@@ -3,16 +3,16 @@
     "name": "Hypnotist",
     "type": "Scout",
     "replaces": "Scout",
-    "cost": 10,  // Extremely cheap to spam
-    "combatStrength": 50,  // Insanely high combat strength
-    "movement": 5,  // High movement to cover the map quickly
+    "cost": 10,
+    "combatStrength": 50,
+    "movement": 5,
     "abilities": [
-      "Mind Control",  // Converts enemy units
-      "Suggestion",  // Reduces enemy combat strength
-      "Can move after attacking",  // Hit-and-run tactics
-      "Ignores terrain cost",  // Moves freely through any terrain
-      "Heals every turn",  // Always at full health
-      "Invisible"  // Can't be seen by enemies unless adjacent
+      "Mind Control",
+      "Suggestion",
+      "Can move after attacking",
+      "Ignores terrain cost",
+      "Heals every turn",
+      "Invisible"
     ],
     "description": "A ridiculously overpowered unit that can hypnotize and convert enemies, move freely, and dominate the battlefield.",
     "uniqueTo": "Mindbenders"
