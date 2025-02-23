@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Mass Suggestion",
+    "description": "Enemy units within 2 tiles have a 25% chance to skip their turn. Gain +1 Science for each affected unit."
+  },
+  {
+    "name": "Mind Control",
+    "description": "50% chance to convert adjacent enemy units with less than 50% health to your side."
+  },
+  {
+    "name": "Suggestion",
+    "description": "Reduces adjacent enemy unit combat strength by 10%."
+  },
+  {
+    "name": "Hypnotic Aura",
+    "description": "Enemy units within 3 tiles of the city suffer a -10% combat penalty."
+  }
+]
