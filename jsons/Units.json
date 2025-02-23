@@ -1,7 +1,7 @@
 [
   {
     "name": "Hypnotist",
-    "niTypes": "Scout",
+    "unitType": "Scout",
     "replaces": "Scout",
     "cost": 10,
     "combatStrength": 50,
