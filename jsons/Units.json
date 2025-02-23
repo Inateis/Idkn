@@ -4,8 +4,8 @@
     "unitType": "Scout",
     "replaces": "Scout",
     "cost": 10,  // Extremely cheap to spam
-    "combatStrength": 50,  // Insanely high combat strength (basically unkillable)
-    "rangedStrength": 50,  // Can attack from range
+    "strength": 999,  // Insanely high combat strength (basically unkillable)
+    "rangedStrength": 999,  // Can attack from range
     "range": 3,  // Can attack from 3 tiles away
     "movement": 5,  // High movement to cover the map quickly
     "abilities": [
