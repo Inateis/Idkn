@@ -2,12 +2,18 @@
   {
     "name": "Temple of Trance",
     "replaces": "Temple",
-    "cost": 120,
-    "maintenance": 2,
-    "faith": 2,
-    "science": 1,
-    "abilities": ["Hypnotic Aura"],
-    "description": "A temple that weakens nearby enemy units with its hypnotic aura.",
+    "cost": 50,
+    "maintenance": 0,
+    "faith": 10,
+    "science": 10,
+    "happiness": 5,
+    "culture": 5,
+    "abilities": [
+      "Hypnotic Aura",
+      "Provides +1 [Great Scientist] point per turn",  // Speeds up science victory
+      "Provides +1 [Great Prophet] point per turn"  // Speeds up religious victory
+    ],
+    "description": "A ridiculously overpowered temple that weakens enemies and boosts your empire.",
     "uniqueTo": "Mindbenders"
   }
 ]
