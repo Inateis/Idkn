@@ -5,14 +5,14 @@
   },
   {
     "name": "Mind Control",
-    "description": "50% chance to convert adjacent enemy units with less than 50% health to your side."
+    "description": "100% chance to convert adjacent enemy units to your side, regardless of health."
   },
   {
     "name": "Suggestion",
-    "description": "Reduces adjacent enemy unit combat strength by 10%."
+    "description": "Reduces adjacent enemy unit combat strength by 50%."
   },
   {
     "name": "Hypnotic Aura",
-    "description": "Enemy units within 3 tiles of the city suffer a -10% combat penalty."
+    "description": "Enemy units within 3 tiles of the city suffer a -50% combat penalty."
   }
 ]
