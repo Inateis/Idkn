@@ -2,7 +2,7 @@
   {
     "name": "Hypnotist",
     "unitType": "Melee",
-    "replaces": "warrior",
+    "replaces": "Warrior",
     "cost": 10,
     "combatStrength": 50,
     "movement": 5,
