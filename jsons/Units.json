@@ -1,17 +1,13 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+  {
+    "name": "Hypnotist",
+    "unitType": "Scout",
+    "replaces": "Scout",
+    "cost": 40,
+    "combatStrength": 5,
+    "movement": 3,
+    "abilities": ["Mind Control", "Suggestion"],
+    "description": "A unit that can hypnotize and convert weakened enemies.",
+    "uniqueTo": "Mindbenders"
+  }
 ]
